@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f049b2bd.css",
+    "main.js": "/static/js/main.edb434f0.js",
+    "static/js/453.fdb085ff.chunk.js": "/static/js/453.fdb085ff.chunk.js",
+    "static/media/Alx_img1.png": "/static/media/Alx_img1.7e96c2d44d75f3936cdf.png",
+    "static/media/lang.jpg": "/static/media/lang.026837304ae907123b11.jpg",
+    "static/media/wide4.webp": "/static/media/wide4.c82189de827faeb3d109.webp",
+    "static/media/LH-Banner_Template-1.png": "/static/media/LH-Banner_Template-1.72cc8165592674c59bd0.png",
+    "static/media/lang7.jpg": "/static/media/lang7.5ac2a20ff7f611488df2.jpg",
+    "static/media/LH-Banner_Template_2-2.png": "/static/media/LH-Banner_Template_2-2.1f98477681fca5dd8532.png",
+    "static/media/lang6.jpg": "/static/media/lang6.3d7cd85740a2c7d40a66.jpg",
+    "index.html": "/index.html",
+    "main.f049b2bd.css.map": "/static/css/main.f049b2bd.css.map",
+    "main.edb434f0.js.map": "/static/js/main.edb434f0.js.map",
+    "453.fdb085ff.chunk.js.map": "/static/js/453.fdb085ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f049b2bd.css",
+    "static/js/main.edb434f0.js"
+  ]
+}

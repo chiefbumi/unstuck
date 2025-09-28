@@ -1,0 +1,74 @@
+
+.lcontent {
+    // background-image: url(../../assets/images/wide4.webp);
+    @apply pt-32 pb-12 bg-cover;
+}
+
+body {
+    @apply bg-gray-950;
+}
+
+
+
+.main-container {
+    @apply w-full h-full bg-gray-950/95 text-orange-50/50;
+}
+
+
+.content-wrapper {
+    @apply bg-gray-950 sm:mx-0 lg:mx-20 2xl:mx-40 sm:p-4 lg:p-10 2xl:p-20 p-5;
+}
+
+.mapView {
+    @apply h-32;
+}
+
+.listItem {
+    @apply bg-orange-300/5 hover:bg-orange-300/15 p-5 rounded-xl border border-brown-300/40;
+}
+
+.listText {
+    @apply text-orange-50/50;
+}
+
+.listText h2 {
+    @apply text-white font-semibold;
+}
+
+.filterDiv {
+    @apply bg-brown-300/40 flex gap-2 rounded-full;
+}
+
+.dialogBG {
+    background: rgb(54, 51, 50);
+    @apply text-orange-50/50 px-4;
+}
+
+.input-div{
+    @apply w-full text-orange-50/50;
+}
+
+.input-div input, .input-div textarea {
+    @apply w-full text-orange-50/50 outline-none rounded-full px-7 py-3 bg-gray-950/30 placeholder:text-orange-100/30;
+}
+
+
+
+
+
+
+@media (max-width: 470px) {
+
+    .phoneView {
+        display: block;
+    }
+
+    .pcView {
+        display: none;
+    }
+
+    .apply-now {
+        @apply mx-4;
+    }
+
+}
